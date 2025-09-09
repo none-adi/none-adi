@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, I'm Aditya 👋</h1>
 <p align="center">YOUR TAGLINE — e.g., Full-stack developer • Open source • Coffee-powered</p>
 
 ---
