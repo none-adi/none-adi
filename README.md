@@ -8,7 +8,6 @@
 - 🤖 I'm interested in **Machine Learning** (CNNs • SNNs • RL • Deep Learning).
 - 🌱 I'm currently learning **Competitive Programming** and **Machine Learning**.
 
-## 🌐 Socials:
 <!-- Replace links. Remove any you don't use. 
 <p>
   <a href="https://twitter.com/YOUR_HANDLE"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
