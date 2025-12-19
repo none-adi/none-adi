@@ -1,14 +1,12 @@
 <h1 align="center">Hi, this is @none-adi👋</h1>
-<p align="center"><i>ML-first • learning CP & Web Dev • enthusiastic programmer</i></p>
+<p align="center"><i>enthusiastic programmer</i></p>
 
 ---
 
 ## 🐣 About Me:
 - 🎓 I'm currently a **2nd year** **student** at **IIT Kanpur**.
 - 🤖 I'm interested in **Machine Learning** (CNNs • SNNs • RL • Deep Learning).
-- 🌱 I'm currently learning **Competitive Programming** and **Web Development**.
-- 🗣️ Ask me about: **_____** (ML topics, projects, or tools).
-- ⚡ Fun fact: **_____**.
+- 🌱 I'm currently learning **Competitive Programming** and **Machine Learning**.
 
 ## 🌐 Socials:
 <!-- Replace links. Remove any you don't use. 
